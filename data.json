@@ -1,0 +1,16 @@
+{
+"alert_zones": {
+        "co2": {
+            "Upper_Limit": 1500,
+            "Lower_Limit": 400
+        },
+        "temp": {
+            "Upper_Limit": 35,
+            "Lower_Limit": 15
+        },
+        "humidity": {
+            "Upper_Limit": 60,
+            "Lower_Limit": 30
+        }
+    }
+}
